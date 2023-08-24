@@ -6,9 +6,9 @@
  ## Images
  
 
-<img src="github/mandalamaker%20(2).jpg" height="400">  <img src="github/mandalamaker%20(3).jpg" height="400"> 
+<img src="github/mandalamaker%20(2).jpg" height="300">  <img src="github/mandalamaker%20(3).jpg" height="300"> 
 
-<img src="github/mandalamaker%20(1).jpg" height="400">  <img src="github/mandalamaker%20(4).jpg" height="400">
+<img src="github/mandalamaker%20(1).jpg" height="300">  <img src="github/mandalamaker%20(4).jpg" height="300">
 
-<img src="github/mandala.jpg" width="840">
+<img src="github/mandala.jpg" width="500">
 
